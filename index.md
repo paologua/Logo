@@ -1,4 +1,10 @@
-<h1 style="display:flex; justify-content:space-between; align-items:center;">
-  <span>inoperando</span>
-  <img src="./logo.png" alt="logo" style="width:50px;">
-</h1>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>inoperando</title>
+</head>
+<body>
+  <img src="/inoperando-logo.png" alt="inoperando logo">
+</body>
+</html>
